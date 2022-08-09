@@ -1,0 +1,17 @@
+<h2 class="text-center">Categorias</h2>
+
+<div class="d-flex-row">
+{{#each categories}}
+    <div class="card">
+        <a href="/play/{{id_category}}/{{name}}">
+            <button class="btn category">
+                {{name}}
+            </button>
+        </a>
+    </div>
+{{/each}}
+</div>
+
+<div class="text-center">
+    <a href="/"><button class="btn back">Voltar ao início</button></a>
+</div>

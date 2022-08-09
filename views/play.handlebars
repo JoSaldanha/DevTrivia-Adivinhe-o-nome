@@ -1,0 +1,20 @@
+<script defer src="/js/play.js"></script>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+<h3 class="subt-game text-center">DevTrivia</h3>
+
+<h4 id="categoria" class="subt-game text-center"></h4>
+
+
+<input class="input-play" type="text" placeholder="Tente uma palavra">
+
+<ol class="d-flex-row">
+{{#each items}}
+    <li class="item" title="{{id_item}}">{{name}}</li>
+{{/each}}
+</ol>
+
+<div class="text-center">
+    <a href="/categorias"><button class="btn back">Voltar às categorias</button></a>
+    <a href="/"><button class="btn back">Voltar ao início</button></a>
+</div>
