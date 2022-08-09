@@ -3,7 +3,9 @@
 
 DevTrivia é um projeto de estudo backend inspirado no site RachaCuca e outros apps de trívia.
 
-![Página de categorias do app](https://user-images.githubusercontent.com/75482200/183764269-fa0557a1-259e-479e-803e-a92ddad6b01a.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75482200/183764269-fa0557a1-259e-479e-803e-a92ddad6b01a.png"
+</p>
 
 ## Linguagens, frameworks e bibliotecas usadas:
 `Javascript`
@@ -16,7 +18,11 @@ DevTrivia é um projeto de estudo backend inspirado no site RachaCuca e outros a
 `Body-parser`
 `Sequelize`
 
-<img align="center" src="https://user-images.githubusercontent.com/75482200/183768109-7b339535-4244-4421-a7f4-bb7f13187320.png" width="450">
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75482200/183768109-7b339535-4244-4421-a7f4-bb7f13187320.png" width="450">
+</p>
 
 # :open_file_folder: Acesso ao projeto:
 Após baixar o projeto, é necessário ter o mysql ou qualquer outro banco de dados suportado pelo Sequelize.
@@ -29,4 +35,6 @@ Com um banco de dados instalado na máquina, é necessário:
 
 - `Por fim, execute pelo terminal, dentro da pasta do projeto, o comando "node app.mjs".`
 
-<img align="center" src="https://user-images.githubusercontent.com/75482200/183768232-a7d6903a-dd5a-460f-8bcd-938aef15d3b6.png" width="450">
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/75482200/183768232-a7d6903a-dd5a-460f-8bcd-938aef15d3b6.png" width="450">
+</p>
