@@ -16,8 +16,7 @@ DevTrivia é um projeto de estudo backend inspirado no site RachaCuca e outros a
 `Body-parser`
 `Sequelize`
 
-<img align="left" src="https://user-images.githubusercontent.com/75482200/183768109-7b339535-4244-4421-a7f4-bb7f13187320.png" width="400">
-<img align="right" src="https://user-images.githubusercontent.com/75482200/183768232-a7d6903a-dd5a-460f-8bcd-938aef15d3b6.png" width="400">
+<img src="https://user-images.githubusercontent.com/75482200/183768109-7b339535-4244-4421-a7f4-bb7f13187320.png" width="400">
 
 # :open_file_folder: Acesso ao projeto:
 Após baixar o projeto, é necessário ter o mysql ou qualquer outro banco de dados suportado pelo Sequelize.
@@ -29,3 +28,5 @@ Com um banco de dados instalado na máquina, é necessário:
 - `Adicionar os registros nas tabelas`, seguindo o exemplo comentado do método create() em models/Categoria.js poderá criar quais e quantas categorias desejar. Para os items também pode seguir o exemplo anterior, mas caso queira repetir os que usei pode copiar os códigos da pasta db.sql.
 
 - `Por fim, execute pelo terminal, dentro da pasta do projeto, o comando "node app.mjs".`
+
+<img src="https://user-images.githubusercontent.com/75482200/183768232-a7d6903a-dd5a-460f-8bcd-938aef15d3b6.png" width="400">
