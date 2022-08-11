@@ -27,6 +27,9 @@ DevTrivia é um projeto de estudo backend inspirado no site RachaCuca e outros a
 # :open_file_folder: Acesso ao projeto:
 Após baixar o projeto, é necessário ter o mysql ou qualquer outro banco de dados suportado pelo Sequelize.
 Com um banco de dados instalado na máquina, é necessário:
+
+- `Execute o comando npm install` no terminal, dentro do diretório do projeto.
+
 - `Criar uma database` pelo seu banco de dados com o nome "devTrivia" e pelo usuário "root", mas você pode personalizar isso modificando os parâmetros da constante "sequelize" em models/db.js.
 
 - `Criar as tabelas de categorias e items`, que podem ser feitas descomentando os métodos sync() em models/Categoria.js e em models/Item.js, ao executar o app será criado as tabelas.
